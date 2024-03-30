@@ -1,0 +1,20 @@
+center img{
+    height: 400px; 
+    margin-top: 150px;
+    border-radius: 50px;
+   }
+@media all and (max-width:991px){
+    center img{
+     height: 600px; 
+     margin-top: 750px;
+     border-radius: 50px;
+    }
+    
+}
+@media all and (max-width:768px){
+    center img{
+        height: 600px; 
+        margin-top: 750px; 
+    }
+    
+}
